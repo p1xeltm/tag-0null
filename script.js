@@ -1,6 +1,6 @@
-const START_DATE = "2026-10-09";
+const START_DATE = "2026-10-29";
 const record = "7monate21tage";
-const MILESTONES = [11, 19];
+const MILESTONES = [1, 19, 37];
 
 const SCALE_PADDING = 7;
 const rawMin = Math.min(...MILESTONES);
